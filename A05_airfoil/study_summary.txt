@@ -1,0 +1,7 @@
+best_regression_model: Polynomial Regression (degree=2)
+best_r2: 0.9619
+best_mae: 1.1653
+best_rmse: 1.4296
+naive_bayes_accuracy: 0.8158
+predicted_noise_db: 125.28
+predicted_noise_class: high
